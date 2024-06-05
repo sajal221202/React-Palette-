@@ -9,8 +9,8 @@ Certainly! Here are simplified setup instructions for each project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/react-mini-projects.git
-   cd react-mini-projects/[project-directory]
+   git clone https://github.com/sajal221202/React-Palette-.git
+   cd react-mini-projects/[project-directory-name]
    ```
 
 2. **Install dependencies**:
